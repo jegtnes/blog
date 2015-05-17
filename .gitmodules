@@ -1,0 +1,6 @@
+[submodule "content/themes/jegtnes-theme"]
+	path = content/themes/jegtnes-theme
+	url = git@github.com:jegtnes/jegtnes-theme.git
+[submodule "content/themes/casper"]
+	path = content/themes/casper
+	url = git@github.com:TryGhost/Casper.git
