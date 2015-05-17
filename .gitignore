@@ -1,0 +1,6 @@
+node_modules
+content/apps/*
+content/data/*
+content/images/*
+content/themes/*
+!**.*.gitkeep
