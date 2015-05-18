@@ -2,8 +2,11 @@
 // Setup your Ghost install for various environments
 // Documentation can be found at http://support.ghost.org/config/
 
+require('./helpers')();
+
 var path = require('path'),
     config;
+
 
 config = {
     // ### Production
