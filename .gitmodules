@@ -4,3 +4,6 @@
 [submodule "content/themes/casper"]
 	path = content/themes/casper
 	url = git@github.com:TryGhost/Casper.git
+[submodule "content/apps/islocal"]
+	path = content/apps/islocal
+	url = git@github.com:jegtnes/ghost-local.git
